@@ -1,8 +1,8 @@
 # Logistic-Regression-Classifier---python
 
-# Brief
+## Brief
 Logistic Regression Classifier model to perform bank note authentication on 
 "data_banknote_authentication.txt".
 
-# Instructions
+## Instructions
 Requires Numpy, scipy, sklearn and matplotlib.
